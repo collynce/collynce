@@ -48,5 +48,3 @@
 
 ---
 Credit: [KevinPatel04](https://github.com/KevinPatel04)
-
-Last Updated On: 13/06/2021
